@@ -28,7 +28,8 @@ Requirements
 -  Unzip both files
 -  Install ``Win32diskimager``
 -  Format SD card
--  Run ``Win32diskimager``
--  Choose image Debianserver
+-  Run ``Win32diskimager`` as administrator
+-  Switch choosing from ``Disk Images (*.img *.IMG)`` to ``(*.*)``
+-  Choose image ``Debian_server_vga.raw``
 -  Write it to your device
 -  Put microSD to cubieboard2 and turn ON
