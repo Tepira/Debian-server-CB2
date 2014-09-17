@@ -30,6 +30,6 @@ Requirements
 -  Format SD card
 -  Run ``Win32diskimager`` as administrator
 -  Switch choosing from ``Disk Images (*.img *.IMG)`` to ``(*.*)``
--  Choose image ``Debian_server_vga.raw``
+-  Choose image ``Debian_server_hdmi.raw``
 -  Write it to your device
 -  Put microSD to cubieboard2 and turn ON
